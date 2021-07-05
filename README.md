@@ -31,7 +31,7 @@ Twilio SMS APP to send text message using Twilio API with python
 
 Then type in the following command:
 
-python Desktop/CP-Twilio-Python-Text-App/send_sms.py
+python 'path of send sms file'.py
 
 
 ### Congratulations!
